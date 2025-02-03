@@ -1,1 +1,1 @@
-This is Angular Material course
+This is Angular Material project
